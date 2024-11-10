@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tp_Negocio
+build_property.RootNamespace = Tp_Negocio
+build_property.ProjectDir = C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Catalogo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ29cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Chimis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpbWlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Chimis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpbWlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Chimis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpbWlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Chimis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpbWlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Chimis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpbWlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/ImportarExelChimi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0YXJFeGVsQ2hpbWlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/ImportarExelSal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wb3J0YXJFeGVsU2FsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Proveedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Proveedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Proveedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Proveedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Proveedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Sales/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Sales/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Sales/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Sales/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Sales/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Shared/_Paginador.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdpbmFkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8oonyjoobw

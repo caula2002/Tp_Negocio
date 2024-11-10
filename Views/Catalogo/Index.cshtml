@@ -1,0 +1,45 @@
+﻿@model Tp_Negocio.Models.Catalogo
+
+<h2>Catálogo de Productos</h2>
+
+<div class="container">
+    <div class="row">
+        <!-- Sección para Chimis -->
+        <h3>Chimis</h3>
+        @foreach (var chimi in Model.Chimis)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(chimi.NombreFoto))
+                    {
+                        <img src="~/imagenes/chimis/@chimi.NombreFoto" class="card-img-top" alt="@chimi.Nombre" />
+                    }
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@chimi.Nombre</h5>
+                        <a href="@Url.Action("Details", "Chimis", new { id = chimi.Id })" class="btn btn-primary">Detalles</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+        <!-- Sección para Sales -->
+        <h3>Sales</h3>
+        @foreach (var sal in Model.Sales)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    @if (!string.IsNullOrEmpty(sal.NombreFoto))
+                    {
+                        <img src="~/imagenes/sales/@sal.NombreFoto" class="card-img-top" alt="@sal.Nombre" />
+                    }
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@sal.Nombre</h5>
+                        <a href="@Url.Action("Details", "Sales", new { id = sal.Id })" class="btn btn-primary">Detalles</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+

@@ -1,0 +1,489 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Tp_Negocio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tp_Negocio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\010d44b2ed844aa78e7b664338c28fb0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\010d44b2ed844aa78e7b664338c28fb0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\145a9024e507415a870cb40a3323c0a0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\145a9024e507415a870cb40a3323c0a0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\22c757170be54996826d6d26a340fa0a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\22c757170be54996826d6d26a340fa0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\29d9400ee32b4d089338f3d353d01e33.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\29d9400ee32b4d089338f3d353d01e33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\5ad416410faf454785e6bceb325caf73.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\5ad416410faf454785e6bceb325caf73.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\63f92dc3edc7401890e1d2fe713d39c3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\63f92dc3edc7401890e1d2fe713d39c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\663e50e2703845a3b70bc53fdecfc7d6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\663e50e2703845a3b70bc53fdecfc7d6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\6eadb4ff0fd24078b17b98be3184be60.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\6eadb4ff0fd24078b17b98be3184be60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\80150722b2cd4990b23d2b4ceb5d05e1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\80150722b2cd4990b23d2b4ceb5d05e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\9c1a59e3d86d4a34a18c996deb11818a.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\9c1a59e3d86d4a34a18c996deb11818a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\9db0b6fc1cf2454bb5dd778827dba5c1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\9db0b6fc1cf2454bb5dd778827dba5c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\a24397f296994c32a0fa6f45ae8c75b4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\a24397f296994c32a0fa6f45ae8c75b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\a37298f301994cf7b76234e91ccd3f2c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\a37298f301994cf7b76234e91ccd3f2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\a3dfd47122cb462fa0e3dd9a6699ef19.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\a3dfd47122cb462fa0e3dd9a6699ef19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\b1dbc3c3329749cea2351f4efc5f6ce3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\b1dbc3c3329749cea2351f4efc5f6ce3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\cb69787ac08c466bb8042befe60a3936.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\cb69787ac08c466bb8042befe60a3936.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\cd70c97947734512953f653bf9e980df.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\cd70c97947734512953f653bf9e980df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\cdab2c90763d41feaab4c1cd89074ec0.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\cdab2c90763d41feaab4c1cd89074ec0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\d71c8ebfff36471398f43d961dbf4bb1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\d71c8ebfff36471398f43d961dbf4bb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\d9ebb98268574749b29bfcf6036baf8b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\d9ebb98268574749b29bfcf6036baf8b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\f0b8e90619ae4c55bde5572d82ff1183.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\f0b8e90619ae4c55bde5572d82ff1183.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Chimis\\fc990d5e861d438d93df5a0923a516c6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Chimis\\fc990d5e861d438d93df5a0923a516c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\05aa57b7365c49aea0aa6852592dc950.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\05aa57b7365c49aea0aa6852592dc950.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\1cfbdf033e244b60822fa334db96b561.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\1cfbdf033e244b60822fa334db96b561.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\2cf273e0881d40138a902667e90f56b6.png",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\2cf273e0881d40138a902667e90f56b6.png"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\5ce72e8a5d77415aab96dfe9a8f5ec99.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\5ce72e8a5d77415aab96dfe9a8f5ec99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\8c74a28d825e4e889dc4b77383bafba7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\8c74a28d825e4e889dc4b77383bafba7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\9dbd7c552c6843c883e079bbdedc90c7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\9dbd7c552c6843c883e079bbdedc90c7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\c039e90b0c32452d98bb43c764635ad6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\c039e90b0c32452d98bb43c764635ad6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\c4494858326f4bdea9373a1f4a68c6c2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\c4494858326f4bdea9373a1f4a68c6c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\Proveedores\\ee5c804740b6416d83f139f9fb483dbf.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Proveedores\\ee5c804740b6416d83f139f9fb483dbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\060780535d6e40f588f9099183a91408.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\060780535d6e40f588f9099183a91408.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\1dfb845774884916b53ce266a28f2978.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\1dfb845774884916b53ce266a28f2978.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\3290f076d192416bb11eba165bd4895f.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\3290f076d192416bb11eba165bd4895f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\391dd8b103c14c76af3bf5367186596b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\391dd8b103c14c76af3bf5367186596b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\493fb283a7a04f0781d094394e28ebde.xlsx",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\493fb283a7a04f0781d094394e28ebde.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\59698f312f024ff5ab3670fd7bacfa7d.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\59698f312f024ff5ab3670fd7bacfa7d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\5a28f8c79c414bfa878fdb7d264028ca.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\5a28f8c79c414bfa878fdb7d264028ca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\5b9685cae3ad412aa9704ae90379f2f1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\5b9685cae3ad412aa9704ae90379f2f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\744140cbabcf432d888452d22f0e77e9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\744140cbabcf432d888452d22f0e77e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\759102b0659749b981d8f5ba35257889.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\759102b0659749b981d8f5ba35257889.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\7b579f300cc6459ebcadf2ae8bbc6c06.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\7b579f300cc6459ebcadf2ae8bbc6c06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\7c26bcf766d44516b9dc194f11875804.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\7c26bcf766d44516b9dc194f11875804.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\7ca0469293a94c819718363988a8f82c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\7ca0469293a94c819718363988a8f82c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\84cf7f5170654bfc865b3afa5e926dc9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\84cf7f5170654bfc865b3afa5e926dc9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\9d2b4f440ce54b849d8417ce77777efe.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\9d2b4f440ce54b849d8417ce77777efe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\a3f5596e76a34338b9897d11b17c3d85.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\a3f5596e76a34338b9897d11b17c3d85.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\a5939b0b602044729ecad7eca67cfd44.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\a5939b0b602044729ecad7eca67cfd44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\ac22b4c41ce44b3aa07f3682137af68b.xlsx",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\ac22b4c41ce44b3aa07f3682137af68b.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\b0577d023fa144fe81136ded8d4a11af.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\b0577d023fa144fe81136ded8d4a11af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\b7296ae9812e42038127c5ed44505ff7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\b7296ae9812e42038127c5ed44505ff7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\d11c11b4f9b94f9a84024eb9633a5b43.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\d11c11b4f9b94f9a84024eb9633a5b43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\db0f331f02ce49d1909c62a121a74bb6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\db0f331f02ce49d1909c62a121a74bb6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\e2e8f368a3724072a1dbedbf803ba12b.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\e2e8f368a3724072a1dbedbf803ba12b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\e5bced5cb92448c99d473d70bec8de2c.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\e5bced5cb92448c99d473d70bec8de2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\imagenes\\sales\\f69e3d54b8274a2b8c182d2044f19db3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\sales\\f69e3d54b8274a2b8c182d2044f19db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\año 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tp_Negocio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tp_Negocio.props",
+      "PackagePath": "build\\Tp_Negocio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tp_Negocio.props",
+      "PackagePath": "buildMultiTargeting\\Tp_Negocio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tp_Negocio.props",
+      "PackagePath": "buildTransitive\\Tp_Negocio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

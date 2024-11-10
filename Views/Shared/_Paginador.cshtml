@@ -1,0 +1,45 @@
+﻿@model Tp_Negocio.ViewModel.Paginador
+<nav aria-label="...">
+    <ul class="pagination justify-content-center">
+        <li class="page-item @(Model.PaginaActual == 1 ? "disabled" : "")">
+            <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+            asp-route-pagina="@(Model.PaginaActual - 1)" tabindex="-1">Anterior</a>
+        </li>
+        @if (Model.PaginaActual > 2)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+                asp-route-pagina="1">1</a></li>
+        }
+        @if (Model.PaginaActual > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+                asp-route-pagina="@(Model.PaginaActual - 1)">@(Model.PaginaActual - 1)</a></li>
+        }
+        <li class="page-item active">
+            <a class="page-link" asp-route-pagina="@Model.PaginaActual">@Model.PaginaActual<span class="sr-only"></span></a>
+        </li>
+        @if (Model.PaginaActual < Model.TotalPagina)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+                asp-route-pagina="@(Model.PaginaActual + 1)">@(Model.PaginaActual + 1)</a></li>
+        }
+        @if (Model.PaginaActual < (Model.TotalPagina - 1))
+        {
+            <li class="page-item">
+                <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+                asp-route-pagina="@(Model.TotalPagina)">@(Model.TotalPagina)</a></li>
+        }
+        <li class="page-item @(Model.PaginaActual == Model.TotalPagina ? "disabled" : "")">
+            <a class="page-link" asp-all-route-data="@Model.ValoresQueryString"
+            asp-route-pagina="@(Model.PaginaActual + 1)">Siguiente</a>
+        </li>
+    </ul>
+</nav>
+
+
+TotalPaginas:@Model.TotalPagina
+<br>
+RegistrosPorPagina: @Model.RegistrosPorPagina

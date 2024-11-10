@@ -1,0 +1,74 @@
+﻿@model Tp_Negocio.ViewModel.SalViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <p>
+        Nombre: <input type="text" asp-for="buscarNombre" id="buscarNombre" />
+        <input type="submit" value="Filtrar" />
+        <button type="button" onclick="clearSearchAndSubmit()" class="btn btn-secondary">Mostrar Todos</button>
+    </p>
+</form>
+
+<script>
+    function clearSearchAndSubmit() {
+        document.getElementById("buscarNombre").value = ""; // Limpiar el campo
+        document.forms[0].submit(); // Enviar el formulario
+    }
+</script>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.sales![0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.sales![0].NombreFoto)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.sales != null && Model.sales.Any())
+    {
+        @foreach (var item in Model.sales!)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nombre)
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.NombreFoto))
+                    {
+                        <img src="~/imagenes/sales/@item.NombreFoto" width="60"
+                             class="rounded-circle" asp-append-version="true" />
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    }
+        else
+        {
+            <tr>
+                <td colspan="4">No hay datos para mostrar</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<partial name="_Paginador" for="@Model.Paginador" />
