@@ -1,74 +1,58 @@
 ﻿@model IEnumerable<Tp_Negocio.Models.Proveedores>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Catálogo de Proveedores";
 }
 
-<h1>Index</h1>
+<h1 class="text-center my-4">Catálogo de Proveedores</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Localidad)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Domicilio)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Tel)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Productos)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NombreFoto)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nombre)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Localidad)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Domicilio)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Tel)
-            </td>
-            <td>
-                    <ul>
-                        @foreach (var ingrediente in item.Productos.Split('\n'))
+<div class="container mb-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <!-- Botón para Crear Nuevo -->
+        <a asp-action="Create" class="btn btn-success">Crear Nuevo</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        @if (Model != null && Model.Any())
+        {
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        @if (!string.IsNullOrEmpty(item.NombreFoto))
                         {
-                            <li>@ingrediente</li>
+                            <img src="~/imagenes/Proveedores/@item.NombreFoto" class="card-img-top" alt="@item.Nombre" style="height: 200px; object-fit: contain; background-color: #f8f9fa;" asp-append-version="true" />
                         }
-                    </ul>
-            </td>
-                <td>
-                    @if (!string.IsNullOrEmpty(@item.NombreFoto))
-                    {
-                        <img src="~/imagenes/Proveedores/@item.NombreFoto" width="60"
-                             class="rounded-circle" asp-append-version="true" />
-                    }
-                </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+                        <div class="card-body">
+                            <h5 class="card-title text-uppercase font-weight-bold">@item.Nombre</h5>
+                            <p class="card-text"><strong>Localidad:</strong> @item.Localidad</p>
+                            <p class="card-text"><strong>Domicilio:</strong> @item.Domicilio</p>
+                            <p class="card-text"><strong>Teléfono:</strong> @item.Tel</p>
+                            <p class="card-text"><strong>Productos:</strong></p>
+                            <ul class="list-unstyled">
+                                @foreach (var producto in item.Productos.Split('\n'))
+                                {
+                                    <li>@producto</li>
+                                }
+                            </ul>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm me-1">Editar</a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm me-1">Detalles</a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm">Eliminar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <div class="col-12 text-center">
+                <p>No hay proveedores para mostrar</p>
+            </div>
+        }
+    </div>
+</div>
+

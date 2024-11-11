@@ -37,7 +37,7 @@ namespace Tp_Negocio.Controllers
             }
 
             // Paginación
-            int RegistrosPorPagina = 2;
+            int RegistrosPorPagina = 4;
             var registroMostrar = appDbContext
                                 .Skip((pagina - 1) * RegistrosPorPagina)
                                 .Take(RegistrosPorPagina);

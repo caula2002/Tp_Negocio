@@ -1,7 +1,19 @@
-﻿<form asp-action="SubirExcel" method="post" enctype="multipart/form-data">
-    <div class="form-group">
-        <label for="excel">Archivo excel</label>
-        <input type="file" name="excel" class="form-control" />
-        <input type="submit" value="Importar archivo Excel" class="btn btn-primary" />
-    </div>
-</form>
+﻿
+        <div class="card-body">
+            <h4 class="card-title text-center text-uppercase font-weight-bold mb-4">Importar Archivo Excel para Chimichurris</h4>
+
+            <form asp-action="SubirExcel" method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <!-- Campo de carga de archivo -->
+                <div class="form-group mb-3">
+                    <label for="excel" class="form-label">Seleccione un archivo Excel</label>
+                    <input type="file" name="excel" id="excel" class="form-control" accept=".xlsx, .xls" />
+                </div>
+
+                <!-- Botón de Importar -->
+                <div class="text-center">
+                    <input type="submit" value="Importar archivo Excel" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>

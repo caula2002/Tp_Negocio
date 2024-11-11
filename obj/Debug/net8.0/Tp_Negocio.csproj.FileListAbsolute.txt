@@ -298,3 +298,4 @@ C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Lab
 C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio\obj\Debug\net8.0\Tp_Negocio.sourcelink.json

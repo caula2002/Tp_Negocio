@@ -1,45 +1,48 @@
 ﻿@model Tp_Negocio.Models.Catalogo
 
-<h2>Catálogo de Productos</h2>
+<h2 class="text-center my-4">Catálogo de Productos</h2>
 
 <div class="container">
-    <div class="row">
-        <!-- Sección para Chimis -->
-        <h3>Chimis</h3>
+    <!-- Sección para Chimis -->
+    <h3 class="text-primary">Chimis</h3>
+    <div class="row mb-5">
         @foreach (var chimi in Model.Chimis)
         {
-            <div class="col-md-3 mb-4">
-                <div class="card">
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="card h-100 shadow-sm">
                     @if (!string.IsNullOrEmpty(chimi.NombreFoto))
                     {
-                        <img src="~/imagenes/chimis/@chimi.NombreFoto" class="card-img-top" alt="@chimi.Nombre" />
+                        <img src="~/imagenes/chimis/@chimi.NombreFoto" class="card-img-top" alt="@chimi.Nombre" style="height: 200px; object-fit: contain;" />
                     }
                     <div class="card-body text-center">
-                        <h5 class="card-title">@chimi.Nombre</h5>
-                        <a href="@Url.Action("Details", "Chimis", new { id = chimi.Id })" class="btn btn-primary">Detalles</a>
+                        <h5 class="card-title text-uppercase font-weight-bold text-dark">@chimi.Nombre</h5>
+                        <a href="@Url.Action("Details", "Chimis", new { id = chimi.Id })" class="btn btn-outline-primary">Detalles</a>
                     </div>
                 </div>
             </div>
         }
+    </div>
 
-        <!-- Sección para Sales -->
-        <h3>Sales</h3>
+    <!-- Sección para Sales -->
+    <h3 class="text-primary">Sales</h3>
+    <div class="row">
         @foreach (var sal in Model.Sales)
         {
-            <div class="col-md-3 mb-4">
-                <div class="card">
+            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                <div class="card h-100 shadow-sm">
                     @if (!string.IsNullOrEmpty(sal.NombreFoto))
                     {
-                        <img src="~/imagenes/sales/@sal.NombreFoto" class="card-img-top" alt="@sal.Nombre" />
+                        <img src="~/imagenes/sales/@sal.NombreFoto" class="card-img-top" alt="@sal.Nombre" style="height: 200px; object-fit: contain;" />
                     }
                     <div class="card-body text-center">
-                        <h5 class="card-title">@sal.Nombre</h5>
-                        <a href="@Url.Action("Details", "Sales", new { id = sal.Id })" class="btn btn-primary">Detalles</a>
+                        <h5 class="card-title text-uppercase font-weight-bold text-dark">@sal.Nombre</h5>
+                        <a href="@Url.Action("Details", "Sales", new { id = sal.Id })" class="btn btn-outline-primary">Detalles</a>
                     </div>
                 </div>
             </div>
         }
     </div>
 </div>
+
 
 

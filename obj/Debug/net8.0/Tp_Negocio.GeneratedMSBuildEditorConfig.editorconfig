@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\NoteBook\OneDrive\Escritorio\COSAS PATO\año 2\segundo cuatrimestre\Laboratorio 4\Tp_Negocio
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/NoteBook/OneDrive/Escritorio/COSAS PATO/año 2/segundo cuatrimestre/Laboratorio 4/Tp_Negocio/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

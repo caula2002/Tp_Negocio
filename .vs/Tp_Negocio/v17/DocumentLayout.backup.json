@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\891c318c0270055d7d76979b5c9c37d114a8f993\\Views_Catalogo_Index_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\8aaff565f0103c3a3de9807cc3adea00bf10b307\\Views__ViewStart_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\756b0de67b82b9206bcf8f1d8ddca8ddff7a48c6\\Views__ViewImports_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\12a1426b8cdd1fc5a2b4a36a40dddf329431fc73\\Areas_Identity_Pages__ViewStart_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|c:\\users\\notebook\\onedrive\\escritorio\\cosas pato\\a\u00F1o 2\\segundo cuatrimestre\\laboratorio 4\\tp_negocio\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DD90D0E-1E46-4C6B-A98E-6623908FB394}|Tp_Negocio.csproj|solutionrelative:views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,97 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-10T22:46:16.818Z",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Shared\\_LoginPartial.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:41:35.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Views_Catalogo_Index_cshtml.g.cs",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\891c318c0270055d7d76979b5c9c37d114a8f993\\Views_Catalogo_Index_cshtml.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\891c318c0270055d7d76979b5c9c37d114a8f993\\Views_Catalogo_Index_cshtml.g.cs",
-              "ToolTip": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\891c318c0270055d7d76979b5c9c37d114a8f993\\Views_Catalogo_Index_cshtml.g.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\891c318c0270055d7d76979b5c9c37d114a8f993\\Views_Catalogo_Index_cshtml.g.cs [Solo lectura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:42:28.22Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Views__ViewStart_cshtml.g.cs",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\8aaff565f0103c3a3de9807cc3adea00bf10b307\\Views__ViewStart_cshtml.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8aaff565f0103c3a3de9807cc3adea00bf10b307\\Views__ViewStart_cshtml.g.cs",
-              "ToolTip": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\8aaff565f0103c3a3de9807cc3adea00bf10b307\\Views__ViewStart_cshtml.g.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8aaff565f0103c3a3de9807cc3adea00bf10b307\\Views__ViewStart_cshtml.g.cs [Solo lectura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:42:25.875Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Views__ViewImports_cshtml.g.cs",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\756b0de67b82b9206bcf8f1d8ddca8ddff7a48c6\\Views__ViewImports_cshtml.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\756b0de67b82b9206bcf8f1d8ddca8ddff7a48c6\\Views__ViewImports_cshtml.g.cs",
-              "ToolTip": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\756b0de67b82b9206bcf8f1d8ddca8ddff7a48c6\\Views__ViewImports_cshtml.g.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\756b0de67b82b9206bcf8f1d8ddca8ddff7a48c6\\Views__ViewImports_cshtml.g.cs [Solo lectura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:42:23.236Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Areas_Identity_Pages__ViewStart_cshtml.g.cs",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\12a1426b8cdd1fc5a2b4a36a40dddf329431fc73\\Areas_Identity_Pages__ViewStart_cshtml.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\12a1426b8cdd1fc5a2b4a36a40dddf329431fc73\\Areas_Identity_Pages__ViewStart_cshtml.g.cs",
-              "ToolTip": "C:\\Users\\NoteBook\\AppData\\Local\\Temp\\.vsdbgsrc\\12a1426b8cdd1fc5a2b4a36a40dddf329431fc73\\Areas_Identity_Pages__ViewStart_cshtml.g.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\12a1426b8cdd1fc5a2b4a36a40dddf329431fc73\\Areas_Identity_Pages__ViewStart_cshtml.g.cs [Solo lectura]",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:42:04.966Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T22:33:47.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T22:32:32.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -141,7 +55,46 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-10T22:26:02.076Z",
+              "WhenOpened": "2024-11-11T01:41:34.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:41:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:41:07.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\NoteBook\\OneDrive\\Escritorio\\COSAS PATO\\a\u00F1o 2\\segundo cuatrimestre\\Laboratorio 4\\Tp_Negocio\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T01:32:15.161Z",
               "EditorCaption": ""
             }
           ]

@@ -1,21 +1,25 @@
 ﻿@model Tp_Negocio.ViewModel.ChimiViewModel
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Catálogo de Chimis";
 }
 
-<h1>Index</h1>
+<h1 class="text-center my-4">Catálogo de Chimis</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<form asp-action="Index" method="get">
-    <p>
-        Nombre: <input type="text" asp-for="buscarNombre" id="buscarNombre" />
-        <input type="submit" value="Filtrar" />
-        <button type="button" onclick="clearSearchAndSubmit()" class="btn btn-secondary">Mostrar Todos</button>
-    </p>
-</form>
+<div class="container mb-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <!-- Botón para Crear Nuevo -->
+        <a asp-action="Create" class="btn btn-success">Crear Nuevo</a>
+
+        <!-- Formulario de búsqueda -->
+        <form id="searchForm" asp-action="Index" method="get" class="d-flex justify-content-center">
+            <input type="text" asp-for="buscarNombre" id="buscarNombre" class="form-control w-25 me-2" placeholder="Buscar por nombre" />
+            <input type="submit" value="Filtrar" class="btn btn-primary me-2" />
+            <button type="button" onclick="clearSearchField()" class="btn btn-secondary">Mostrar Todos</button>
+        </form>
+
+    </div>
+</div>
 
 <script>
     function clearSearchAndSubmit() {
@@ -24,52 +28,46 @@
     }
 </script>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.Chimis![0].Nombre)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Chimis![0].Stock)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Chimis![0].NombreFoto)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
+<div class="container">
+    <div class="row">
         @if (Model.Chimis != null && Model.Chimis.Any())
         {
-            @foreach (var item in Model.Chimis!)
+            @foreach (var chimi in Model.Chimis)
             {
-                <tr>
-                    <td>
-                        @Html.DisplayFor(modelItem => item.Nombre)
-                    </td>
-                    <td>
-                        @if (!string.IsNullOrEmpty(item.NombreFoto))
+                <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+                    <div class="card h-100 shadow-sm">
+                        @if (!string.IsNullOrEmpty(chimi.NombreFoto))
                         {
-                            <img src="~/imagenes/Chimis/@item.NombreFoto" width="60"
-                                 class="rounded-circle" asp-append-version="true" />
+                            <img src="~/imagenes/Chimis/@chimi.NombreFoto" class="card-img-top" alt="@chimi.Nombre" style="height: 200px; object-fit: contain; background-color: #f8f9fa;" />
                         }
-                    </td>
-                    <td>
-                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                    </td>
-                </tr>
+                        <div class="card-body text-center">
+                            <h5 class="card-title text-uppercase font-weight-bold">@chimi.Nombre</h5>
+                            <p class="card-text">Stock: @chimi.Stock</p>
+                        </div>
+                        <div class="card-footer text-center">
+                            <a asp-action="Edit" asp-route-id="@chimi.Id" class="btn btn-outline-primary btn-sm me-1">Editar</a>
+                            <a asp-action="Details" asp-route-id="@chimi.Id" class="btn btn-outline-info btn-sm me-1">Detalles</a>
+                            <a asp-action="Delete" asp-route-id="@chimi.Id" class="btn btn-outline-danger btn-sm">Eliminar</a>
+                        </div>
+                    </div>
+                </div>
             }
         }
         else
         {
-            <tr>
-                <td colspan="4">No hay datos para mostrar</td>
-            </tr>
+            <div class="col-12 text-center">
+                <p>No hay datos para mostrar</p>
+            </div>
         }
-    </tbody>
-</table>
+    </div>
+</div>
+<script>
+    function clearSearchField() {
+        document.getElementById("buscarNombre").value = ""; // Limpiar el campo
+        document.getElementById("searchForm").submit(); // Enviar el formulario
+    }
+</script>
 
 <partial name="_Paginador" for="@Model.Paginador" />
+
+

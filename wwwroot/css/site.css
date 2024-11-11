@@ -20,3 +20,99 @@ html {
 body {
   margin-bottom: 60px;
 }
+/* Imagen de fondo que cubre toda la página */
+body {
+    background-image: url('/imagenes/fondo/logo solo_page-0001.jpg'); /* Asegúrate de que esta ruta sea correcta */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Contenedor principal */
+.container {
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo semitransparente */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Barra de navegación con fondo semitransparente */
+.navbar {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco semitransparente */
+    backdrop-filter: blur(5px); /* Agrega un ligero desenfoque para darle estilo */
+}
+
+    /* Enlaces de la barra de navegación */
+    .navbar .nav-link {
+        color: #333;
+        font-weight: bold;
+        transition: color 0.3s ease, background-color 0.3s ease; /* Transición para el hover */
+    }
+
+        /* Hover para los enlaces de la barra de navegación */
+        .navbar .nav-link:hover {
+            color: #007bff; /* Color de texto cuando pasas el mouse */
+            background-color: rgba(0, 123, 255, 0.1); /* Fondo sutil al pasar el mouse */
+            border-radius: 5px;
+        }
+
+/* Formulario de inicio de sesión centrado */
+.login-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9); /* Fondo blanco semitransparente */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo del botón de inicio de sesión */
+#login-submit {
+    background-color: #007bff;
+    border: none;
+    margin-top: 10px;
+}
+
+    #login-submit:hover {
+        background-color: #0056b3;
+    }
+
+/* Barra de navegación */
+.navbar.navbar-expand-sm.navbar-toggleable-sm {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    backdrop-filter: blur(5px);
+}
+
+/* Enlaces de la barra de navegación */
+.navbar .nav-link {
+    color: #333 !important;
+    font-weight: bold;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+    .navbar .nav-link:hover {
+        color: #007bff !important;
+        background-color: rgba(0, 123, 255, 0.1);
+        border-radius: 5px;
+    }
+.card-title {
+    font-size: 1.1rem; /* Ajusta el tamaño de fuente */
+    color: #333; /* Color oscuro */
+    margin-bottom: 10px;
+}
+
+.card-img-top {
+    background-color: #f8f9fa; /* Fondo claro para las imágenes */
+    padding: 10px; /* Espacio alrededor de la imagen */
+    border-radius: 8px 8px 0 0;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out;
+}
+
+    .card:hover {
+        transform: scale(1.05); /* Efecto de zoom al pasar el mouse */
+    }

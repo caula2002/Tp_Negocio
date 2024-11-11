@@ -1,62 +1,90 @@
 ﻿@model Tp_Negocio.Models.Proveedores
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Editar Proveedor";
 }
 
-<h1>Edit</h1>
+<h1 class="text-center my-4">Editar Proveedor</h1>
 
-<h4>Proveedores</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit" enctype="multipart/form-data">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
-            <div class="form-group">
-                <label asp-for="Nombre" class="control-label"></label>
-                <input asp-for="Nombre" class="form-control" />
-                <span asp-validation-for="Nombre" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Localidad" class="control-label"></label>
-                <input asp-for="Localidad" class="form-control" />
-                <span asp-validation-for="Localidad" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Domicilio" class="control-label"></label>
-                <input asp-for="Domicilio" class="form-control" />
-                <span asp-validation-for="Domicilio" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Tel" class="control-label"></label>
-                <input asp-for="Tel" class="form-control" />
-                <span asp-validation-for="Tel" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Productos" class="control-label"></label>
-                <textarea asp-for="Productos" class="form-control" rows="5" placeholder="Escribe cada ingrediente en una nueva línea"></textarea>
-                <span asp-validation-for="Productos" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="NombreFoto" class="control-label"></label>
-                <input asp-for="NombreFoto" type="file" id="seleccionImg" class="form-control" />
-            </div>
-            <div class="form-group">
-                <img src="~/imagenes/Proveedores/@Model.NombreFoto" width="60"
-                     id="imagen" class="rounded-circle" asp-append-version="true" />
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
-</div>
+            <h4 class="card-title text-center text-uppercase font-weight-bold mb-4">Información del Proveedor</h4>
 
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
+            <!-- Formulario de Edición -->
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Campo Nombre -->
+                <div class="form-group mb-3">
+                    <label asp-for="Nombre" class="form-label">Nombre</label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <!-- Campo Localidad -->
+                <div class="form-group mb-3">
+                    <label asp-for="Localidad" class="form-label">Localidad</label>
+                    <input asp-for="Localidad" class="form-control" />
+                    <span asp-validation-for="Localidad" class="text-danger"></span>
+                </div>
+
+                <!-- Campo Domicilio -->
+                <div class="form-group mb-3">
+                    <label asp-for="Domicilio" class="form-label">Domicilio</label>
+                    <input asp-for="Domicilio" class="form-control" />
+                    <span asp-validation-for="Domicilio" class="text-danger"></span>
+                </div>
+
+                <!-- Campo Teléfono -->
+                <div class="form-group mb-3">
+                    <label asp-for="Tel" class="form-label">Teléfono</label>
+                    <input asp-for="Tel" class="form-control" />
+                    <span asp-validation-for="Tel" class="text-danger"></span>
+                </div>
+
+                <!-- Campo Productos -->
+                <div class="form-group mb-3">
+                    <label asp-for="Productos" class="form-label">Productos</label>
+                    <textarea asp-for="Productos" class="form-control" rows="5" placeholder="Escribe cada producto en una nueva línea"></textarea>
+                    <span asp-validation-for="Productos" class="text-danger"></span>
+                </div>
+
+                <!-- Campo Imagen (NombreFoto) -->
+                <div class="form-group mb-3">
+                    <label asp-for="NombreFoto" class="form-label">Imagen del Proveedor</label>
+                    <input asp-for="NombreFoto" type="file" id="seleccionImg" class="form-control" onchange="mostrarImagenSeleccionada(event)" />
+                    <span asp-validation-for="NombreFoto" class="text-danger"></span>
+                </div>
+
+                <!-- Previsualización de Imagen -->
+                <div class="form-group text-center mb-3">
+                    <img src="~/imagenes/Proveedores/@Model.NombreFoto" width="150" height="150" id="imagen" class="rounded-circle border" alt="Previsualización de la imagen" asp-append-version="true" />
+                </div>
+
+                <!-- Botón Guardar -->
+                <div class="text-center">
+                    <input type="submit" value="Guardar" class="btn btn-primary me-2" />
+                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                </div>
+            </form>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        // Función para mostrar la imagen seleccionada antes de guardarla
+        function mostrarImagenSeleccionada(event) {
+            var imagen = document.getElementById("imagen");
+            var archivo = event.target.files[0];
+            if (archivo) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    imagen.src = e.target.result; // Mostrar la imagen seleccionada
+                }
+                reader.readAsDataURL(archivo);
+            }
+        }
+    </script>
 }
+
